@@ -1,0 +1,52 @@
+.landing {
+    display: flex;
+}
+
+body {
+    font-family: verdana;
+}
+
+.estamos {
+    display: flex;
+}
+
+.Argentina img {
+   height: 100px;
+
+}
+
+.Brasil img {
+    height: 100px;
+}
+
+.Chile img {
+    height: 100px;
+}
+
+.Mexico img {
+    height: 100px;
+} 
+.sabores {
+    display: flex;
+}
+
+
+
+.sabores img {
+    height: 200px;
+    width: auto;
+    vertical-align: middle;
+}
+
+.navbar{
+    display: flow-root;
+}
+
+.primera img {
+    width: 10%;
+    height: 10%;
+}
+
+.landing {
+    display: flex;
+}
